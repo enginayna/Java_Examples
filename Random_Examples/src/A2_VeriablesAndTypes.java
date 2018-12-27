@@ -16,12 +16,13 @@ public static void main(String args[]) {
 	
 	byte smallest;
 	smallest = 1;
-	
 	short little;
 	little = 2*4;
 			
 	int bestgood;
 	bestgood = (22/2*5);
+
+	System.out.print("Merhaba babaaaa. Burasý nirvana")
 	
 	long verybig;
 	verybig = (23283-3434+5456*6);
